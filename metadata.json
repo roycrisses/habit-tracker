@@ -1,0 +1,6 @@
+{
+  "name": "PulseHabit",
+  "description": "Personal habit and workout tracker empowering daily physical and mental consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
